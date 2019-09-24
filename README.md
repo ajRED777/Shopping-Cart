@@ -1,3 +1,5 @@
 # Shopping-Cart
 Shopping cart implementation with springboot.
-Front end - HTML,CSS,JS,Bootstrap.
+Implementation with HTML,CSS,JS,Bootstrap,JAVA.
+
+
